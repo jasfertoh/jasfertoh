@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me!</h3>
 <p align="center">
-I'm a 1st year student pursuing a Diploma in Information Technology 🎓 from Nanyang Polytechnic 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.. I'm currently into Web Development 🕸️ and working on my front-end development skills.
+I'm a 2nd year student pursuing a Diploma in Information Technology 🎓 from Nanyang Polytechnic 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.. I'm currently into Web Development 🕸️ and working on my front-end development skills.
 </p>
 
 - 🤝 I’m looking to collaborate on more open source projects
